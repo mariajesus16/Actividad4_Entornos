@@ -15,3 +15,7 @@ fun nota(nota: Int) {
         else -> print("El valor introducido no es correcto")
     }
 }
+
+fun main(){
+
+}
